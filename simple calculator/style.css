@@ -1,0 +1,50 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+#display
+{   
+    font-size: 25px;
+    width: auto;
+    height: 70px;
+    background-color: azure;
+}
+
+.btn
+{   
+    padding: 7px;
+    color: rgb(190, 190, 16);
+    background-color: pink;
+    opacity: 100%;
+    
+    
+    
+}
+
+button
+{   border: 2px solid brown;
+    color: brown;
+    background-color: whitesmoke;
+    font-size: 35px;
+    padding-left: 12px;
+    padding-right: 12px;
+    
+}
+
+.main
+{   border: 5px groove brown;
+    width: 235px;
+    
+}
+
+.parent 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    
+}
